@@ -1,0 +1,17 @@
+# Vscode sai
+.vscode
+
+# Arquivos de dados
+*.csv
+*.db
+*.xls
+*.xlsx
+*.sqlite
+
+# Arquivos de Python
+*.pyc
+__pycache__
+_pycache_
+
+# Modelos
+*.pkl
